@@ -1,4 +1,5 @@
 // Create a C++ class for a bank account following the given specifications.
+// Create a C++ class for a bank account following the given specifications.
 // You need to complete the 'Account' class in this 'account.h' file.
 // The 'Account' class should include the following:
 // 1. A private member variable 'balance' of type double to store the account balance.

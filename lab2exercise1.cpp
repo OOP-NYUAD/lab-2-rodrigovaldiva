@@ -1,5 +1,6 @@
 #include <iostream>
 #include "account.h"
+#include "account.cpp"
 
 int main() {
     // Create an Account object using the default constructor.
